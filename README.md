@@ -1,3 +1,5 @@
+## Unofficial Unofficial JMusicBot with Spotify support (Forked from https://github.com/SeVile/MusicBot)
+
 ## Unofficial JMusicBot update with built-in Docker script (Forked from: https://github.com/jagrosh/MusicBot)
 
 > [!IMPORTANT]
@@ -9,12 +11,13 @@
 
 > [!TIP]
 > If Docker doesn't work, enter PO_TOKEN and VISITOR_DATA manually to tokens.txt
+
 ```
 ytpotoken=PO_TOKEN_HERE
 ytvisitordata=VISITOR_DATA_HERE
 ```
 
-<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+<img align="right" src="https://i.imgur.com/zrE80HY.png" alt="d" height="200" width="200">
 
 # JMusicBot
 
